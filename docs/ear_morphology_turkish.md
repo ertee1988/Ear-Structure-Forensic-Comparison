@@ -58,15 +58,30 @@ Kulak morfolojisi, adli antropometri ve dijital görüntü analizi alanında gö
 
 ---
 
-## Görseller (Lütfen repo'ya aşağıdaki görselleri docs/assets/ altına yükleyin)
+## Görseller
 
-> Aşağıdaki görseller mesajınızdaki Image 1, Image 2, Image 3 numaraları ile eşleşmektedir. Şu anda bu dosyalar repo'ya yüklenmemiştir; isterseniz ben de yükleyebilirim (görsellerin sağlanması gerekiyor). Place-holder olarak aşağıdaki markdown referanslarını ekledim:
+### Figure 1 — Kulak anatomisi (Outer / Middle / Inner ear)
 
-![Image 1: Outer/Middle/Inner ear diagram](docs/assets/image1.png)
+![Kulak anatomisi kesiti: dış kulak, orta kulak ve iç kulak yapıları etiketlenmiş.](https://hizliresim.com/bv64u9d)
 
-![Image 2: Fizyonomide - Kulakların Mesajı kapak](docs/assets/image2.png)
+*Caption:* Kulak anatomisinin kesiti; helix, concha, tympanic membrane, orta kulak kemikleri (malleus, incus, stapes) ve iç kulaktaki cochlea ile yarım daire kanalları gösteriliyor.  
+*Source:* provided by author
 
-![Image 3: Birden fazla kulak örneği](docs/assets/image3.png)
+
+### Figure 2 — Kapak kolajı (bekleniyor)
+
+![Image 2 placeholder](docs/assets/image2.png)
+
+*Caption:* “FİZYONOMİDE KULAKLARIN MESAJI” kapak kolajı (yüklenmeyi bekliyor).  
+*Source:* provided by author
+
+
+### Figure 3 — Çoklu kulak örnekleri (bekleniyor)
+
+![Image 3 placeholder](docs/assets/image3.png)
+
+*Caption:* Farklı kişilere ait kulak örnekleri kolajı (yüklenmeyi bekliyor).  
+*Source:* provided by author
 
 ---
 
