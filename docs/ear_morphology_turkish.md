@@ -34,7 +34,7 @@ Bir görüntü karşılaştırma incelemesinde kulak, tek bir yapı olarak deği
 
 ## 3. Düşük Çözünürlüklü ve Zorlu CCTV Koşullarında Kulak Analizi
 
-Adli vakalara konu olan güvenlik kamerası (CCTV) kayıtları sıklıkla düşük çözünürlük, yetersiz ışık, hareket bulanıklığı (motion blur) ve elverişsiz bakış açıları (özellikle üst açılardan çekim yapan kameralar) içerir.
+Adli vakalara konu olan güvenlik kamerası (CCTV) kayıtları sıklıkla düşük çözünlük, yetersiz ışık, hareket bulanıklığı (motion blur) ve elverişsiz bakış açıları (özellikle üst açılardan çekim yapan kameralar) içerir.
 
 **Kritik Avantaj:** Şüpheli şahsın şapka, gözlük veya maske kullanımı yüzün birincil bileşenlerini tamamen kapatabilir. Ancak şahsın profil veya yarı-profil (three-quarter view) hareketlerinde kulak anatomisi açıkta kalabilmektedir. Yüzün pikselleşmeden dolayı ayırt edilemediği durumlarda bile, kulağın genel dış konturu ve belirgin kıkırdak çıkıntıları (örneğin Iannarelli Kulak Kimliklendirme Sistemi kriterlerine göre) karşılaştırmalı analize imkan tanır.
 
@@ -68,19 +68,19 @@ Kulak morfolojisi, adli antropometri ve dijital görüntü analizi alanında gö
 *Source:* provided by author
 
 
-### Figure 2 — Kapak kolajı (bekleniyor)
+### Figure 2 — Kapak kolajı
 
-![Image 2 placeholder](docs/assets/image2.png)
+![“FİZYONOMİDE KULAKLARIN MESAJI” kapak kolajı](https://hizliresim.com/8x5hphk)
 
-*Caption:* “FİZYONOMİDE KULAKLARIN MESAJI” kapak kolajı (yüklenmeyi bekliyor).  
+*Caption:* “FİZYONOMİDE KULAKLARIN MESAJI” başlıklı kapak/kolaj görüntüsü; farklı kişilere ait kulak fotoğraflarıyla oluşturulmuş bir sunum kapağı.  
 *Source:* provided by author
 
 
-### Figure 3 — Çoklu kulak örnekleri (bekleniyor)
+### Figure 3 — Çoklu kulak örnekleri
 
-![Image 3 placeholder](docs/assets/image3.png)
+![Çoklu kulak örnekleri kolajı](https://hizliresim.com/g40pzfm)
 
-*Caption:* Farklı kişilere ait kulak örnekleri kolajı (yüklenmeyi bekliyor).  
+*Caption:* Birden fazla kişiye ait kulakların yakın plan fotoğraflarından oluşan kolaj; farklı helix, antihelix ve lobule örnekleri gösteriliyor.  
 *Source:* provided by author
 
 ---
