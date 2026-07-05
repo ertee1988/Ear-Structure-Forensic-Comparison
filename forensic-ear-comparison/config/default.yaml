@@ -1,0 +1,56 @@
+# Forensic Ear Comparison Toolkit - Varsayılan Yapılandırma
+
+# Kulak Çıkarma Ayarları
+extraction:
+  method: "mediapipe"           # "haar", "mediapipe", "manual"
+  target_size: [256, 256]       # Çıktı boyutu
+  padding_ratio: 0.2            # Landmark çevresi padding
+
+# Özellik Analizi Ayarları
+features:
+  min_component_area: 100       # Minimum bileşen alanı (px²)
+  gabor_orientations: 4         # Gabor filtresi yönelim sayısı
+  gabor_frequencies: [0.1, 0.2, 0.3]
+
+# Karşılaştırma Ayarları
+matching:
+  method: "hybrid"              # "geometric", "texture", "deep", "hybrid"
+  threshold: "standard"         # "strict", "standard", "lenient"
+
+  # Ağırlıklar (hybrid mod için)
+  weights:
+    geometric: 0.30
+    texture: 0.35
+    deep: 0.35
+
+  # Geometrik karşılaştırma ağırlıkları
+  geometric_weights:
+    geometry: 0.25
+    curvature: 0.25
+    lobule: 0.20
+    overall: 0.30
+
+  # Dokusal karşılaştırma ağırlıkları
+  texture_weights:
+    ssim: 0.35
+    mse: 0.20
+    histogram: 0.25
+    orb_features: 0.20
+
+# Derin Öğrenme Ayarları
+deep_learning:
+  backbone: "resnet50"          # "resnet50", "efficientnet_b0"
+  embedding_dim: 128
+  pretrained: true
+  device: "auto"               # "cuda", "cpu", "auto"
+
+# Rapor Ayarları
+report:
+  top_k: 10                   # En iyi K sonucu göster
+  include_visualizations: true
+  include_landmarks: true
+
+# Video İşleme
+video:
+  frame_interval: 30            # Kaç karede bir örnek al
+  min_quality_score: 0.3      # Minimum kalite skoru
