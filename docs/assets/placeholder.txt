@@ -1,0 +1,3 @@
+[Placeholder file to be replaced with image binary uploads]
+
+(This file was created automatically while the assistant attempts to retrieve and commit images from provided external URLs. If the assistant cannot fetch the images due to remote host restrictions, please upload the image files directly to docs/assets/ and re-run the workflow.)
